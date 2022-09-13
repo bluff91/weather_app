@@ -1,4 +1,4 @@
-import {getData, massageData} from "./dataManip"
+import {getData, massageData} from "./getData"
 import {myFactory} from "./factory"
 console.log("kkk");
 // 91928742a9d0c6599cadbca9cbb4a27c my API key
